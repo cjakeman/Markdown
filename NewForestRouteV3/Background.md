@@ -138,55 +138,54 @@ Gradients are a compromise with the DEMEX generated  terrain relief and the skew
 
 Copyright rests with the authors of the following  models (see route ref file). My thanks to the Authors for providing them.
 
-All items in the following classes
-Item                                 | Author
--------------------------------------|-------
-"greenery", some terrtex             | greenery@seznam.cz, http://sweb.cz/greenery
-Banks & cuttings                     | David Gibbons
-HW scenery and buildings, Horses     | Paul Gausden
-trees & vegetation. Bedford coach    |	Ian Jenkins
-green shed SR platelayer huts        | 
-Container type BD, Mini, Jaguar, Fiat |	Ian Morgan		
-signals             		             | John Yelland
-                                     | Simon Barnes
-Vegetation Items prefixed "MS"		   | Michael Sinclair
-Vegetation prefixed "MM"             | Manuel Marder
-Vegetation prefixed RMays            | Ron Mays
-1&3 arch bridge				               | Paul Mathews
-backdrop suburban			               | Terry Thornton
-signs various SR/LSWR, ContainerBDPhonebox | Ian Morgan	
-bzzmvtemplebar				               | Barry Munro
-Etches shuntercabin, MRxing gates.   | 
-signal gantries prefixed SR_ and CL	 | Simon Barnes	
-Telepoles texture			               | Jim Gough
-Xmas tree, pylon                     |	John Hedges
-Pullman camping cars                 | Peter Harvey
-Vegetation bushes Prefix RF, cows,   | Reg Furniss
-narrow gauge  textures               | 
-Banner repeater signals              | Tony Formoso
-
-Vehicles                             | 
-Landrover Scarab                     | Mike Wilson
-Bedford Mini                         | Ian Morgan
-Morris	                             | John Dibben
-Austin                               | Jeff Layfield
-Ford Pop, Consul, Trojan vans, Foden | Martin Phillips
-Vehicles Prefixed Doc. Trolleybus    | Martin Phillips
-Bedford vans                         | Tony Adams
-Bristol Bus                          | Fred Carter
-Morris Minor vans A40                | Trevor Burt
-Sounds					                     | Michael Sinclair
-mineral02				                     | Ian Macmillan
-WA rail pile				                 | Zoe Topper
-New Roads 				                   | Bruce Bridges, Martyn T. Griffin, Steven Masters, Jeff Rice
-Large Greenhouse                     | Frank Carver
-Speed posts			                     | John Kendrick
-sewage works				                 | Charles Malcolm
-6 coasters in "boats"                | Darwin Smith
-Travelling crane                     | Frank Sandwell
-Refinery                             | William W. Bieszczak, Russel Beer
-Vegetation                           | RU Alexey Grebnev Vitaly Alyonkin
-cloud textures                       | Claus Visby Overgaard, Scott
+All items in the following classes:
+| Item                                 | Author
+|--------------------------------------|-------
+| "greenery", some terrtex             | greenery@seznam.cz, http://sweb.cz/greenery
+| Banks & cuttings                     | David Gibbons
+| HW scenery and buildings, Horses     | Paul Gausden
+| trees & vegetation. Bedford coach    |	Ian Jenkins
+| green shed SR platelayer huts        | 
+| Container type BD, Mini, Jaguar, Fiat |	Ian Morgan		
+| signals             		             | John Yelland
+|              		                     | Simon Barnes
+| Vegetation Items prefixed "MS"		   | Michael Sinclair
+| Vegetation prefixed "MM"             | Manuel Marder
+| Vegetation prefixed RMays            | Ron Mays
+| 1&3 arch bridge				               | Paul Mathews
+| backdrop suburban			               | Terry Thornton
+| signs various SR/LSWR, ContainerBDPhonebox | Ian Morgan	
+| bzzmvtemplebar				               | Barry Munro
+| Etches shuntercabin, MRxing gates.   | 
+| signal gantries prefixed SR_ and CL	 | Simon Barnes	
+| Telepoles texture			               | Jim Gough
+| Xmas tree, pylon                     |	John Hedges
+| Pullman camping cars                 | Peter Harvey
+| Vegetation bushes Prefix RF, cows,   | Reg Furniss
+| narrow gauge  textures               | 
+| Banner repeater signals              | Tony Formoso
+| Vehicles                             | 
+| Landrover Scarab                     | Mike Wilson
+| Bedford Mini                         | Ian Morgan
+| Morris	                             | John Dibben
+| Austin                               | Jeff Layfield
+| Ford Pop, Consul, Trojan vans, Foden | Martin Phillips
+| Vehicles Prefixed Doc. Trolleybus    | Martin Phillips
+| Bedford vans                         | Tony Adams
+| Bristol Bus                          | Fred Carter
+| Morris Minor vans A40                | Trevor Burt
+| Sounds					                     | Michael Sinclair
+| mineral02				                     | Ian Macmillan
+| WA rail pile				                 | Zoe Topper
+| New Roads 				                   | Bruce Bridges, Martyn T. Griffin, Steven Masters, Jeff Rice
+| Large Greenhouse                     | Frank Carver
+| Speed posts			                     | John Kendrick
+| sewage works				                 | Charles Malcolm
+| 6 coasters in "boats"                | Darwin Smith
+| Travelling crane                     | Frank Sandwell
+| Refinery                             | William W. Bieszczak, Russel Beer
+| Vegetation                           | RU Alexey Grebnev Vitaly Alyonkin
+| cloud textures                       | Claus Visby Overgaard, Scott
 
 One or more textures bundled with this project have been created with images from Textures.com. These images may not be redistributed by default. Please visit www.textures.com for more information."
 
