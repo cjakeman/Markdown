@@ -9,21 +9,21 @@ Follow [these instructions](https://www.dropbox.com/s/gh2f2pko4f1houj/Using%20ro
 
 ## Copyright
 
-A complete trainset isIncluded for testing the timetable.  
+A complete trainset is included for testing the timetable.  
 DO NOT SHARE THIS as copyright remains with the model authors.
 
-The route folder “watersnake” and Global may be shared.
+The route folders "Watersnake" and "Global" may be shared.
 
 ## Updates
 
-NewforestrouteV3 is a work in progress. Updates are maintained on GitHub. Email me for details at rickloader@hotmail.com
+NewForestRouteV3 is a work in progress. Updates are maintained on GitHub. Email me for details at rickloader@hotmail.com
 
 ## The Route described
 
 The working title "Watersnake" is an alternative name for the Southampton & Dorchester Railway - "Castleman`s Corkscrew".
 (Both alternatives were unkind jibes at the indirect path of the Southampton & Dorchester.)
 
-The route climbs from Basingstoke, to a Summit at Lichfield Tunnel.Descending through Winchester, the GWR Didcot Newbury & Southampton joins us. At Eastleigh are marshalling yards, the LSWR locomotive works and yet more branches to Portsmouth and Salisbury. 
+The route climbs from Basingstoke, to a Summit at Lichfield Tunnel. Descending through Winchester, the GWR Didcot, Newbury & Southampton joins us. At Eastleigh are marshalling yards, the LSWR locomotive works and yet more branches to Portsmouth and Salisbury. 
 
 Southampton has extensive docks with an alternative route to Salisbury via Romsey. At Totton, another branch leads to Fawley refinery. We now enter the New Forest and a hub at Brockenhurst.
 
@@ -37,7 +37,7 @@ In addition to the main line, several subsidiary routes are partly represented. 
 
 Southampton Docks has reduced trackwork. The existing track shapes are not adequate, and the 1000 points needed for accuracy would overload the tile.
 
-The period is set around 1958 but would be valid from the late '30s when Brockenhurst was remodelled, to 1964 when the old Ringwood line closed, and possibly electrification in `67.
+The period is set around 1958 but would be valid from the late '30s when Brockenhurst was remodelled, to 1964 when the old Ringwood line closed, and possibly electrification in '67.
 
 This version has scenery between Basingstoke and Weymouth. Elsewhere scenery is minimal but it is included so that trains may run over the complete network. In V4 I hope to complete the rest of the scenery.
 
@@ -50,10 +50,10 @@ Locomotives follow a complete "Duty". Leaving the loco shed, they pick up stock,
 Trains follow the  official 1954 Engine Working Notices and the 1958 Carriage Working Notices. Experts will detect some anomalies, but I have made the best of my limited sources. Docks goods traffic is mostly absent – no info.
 
 Trains are designated : time/origin/type/duty/lococlass
-so that a train named 1330wloopass71BMN means the
+so that a train named "1330wloopass71BMN" means the
 13:30 Waterloo passenger Bournemouth loco duty (71B) no 381 Merchant Navy class loco.
 
-The timetable depicts a mid-week summer day around 1954-1960
+The timetable depicts a mid-week summer day around 1954-1960.
 
 ## Getting started in timetable mode  
 
@@ -65,42 +65,47 @@ The timetable depicts a mid-week summer day around 1954-1960
 
 ## Loco shed codes Used
 
-70A Nine Elms (London) 
-70B Feltham 
-70C Guildford 
-70D Basingstoke 
-70F Fratton
-71A Eastleigh 
-71B Bournemouth 
-71G or BA Bath 
-71H Templecombe Brk Branksome 
-71I Southampton Docks
-72B Salisbury 
-72C Yeovil
+Code|Loco Shed
+----|-----------------
+70A | Nine Elms (London) 
+70B | Feltham 
+70C | Guildford 
+70D | Basingstoke 
+70F | Fratton
+71A | Eastleigh 
+71B | Bournemouth 
+71G or BA | Bath 
+71H | Templecombe
+Brk | Branksome 
+71I | Southampton Docks
+72B | Salisbury 
+72C | Yeovil
 	
 ## Train Services
 
 A big subject, but here is a short summary.
-Services over the route can be split into 2 Eras
-1. 1930-1964. SR and LSWR stock on the mainline. Push pull trains with M7 tanks on the old road and Lymington branch. During this period Pregrouping and SR stock gradually gave way to BR Standard and Bulleid stock
-2. 1964-1967. Ivatt2 and Standard4 tanks on the Branches. Rebuilt Bulleid Pacific and Standard 4-6-0 on the mainline. Standard 4 2-6-0 on the humbler duties
-Class 33 Cromptons appear, and a few Brush Type4 class 47 on the prestigious or interegional trains. Hampshire (class 205) DEMU occasionally on local services, particularly on Sundays. This was Britain's last steam-worked passenger mainline.
+Services over the route can be split into 2 Eras:
+1. 1930-1964. SR and LSWR stock on the mainline. Push-pull trains with M7 tanks on the "old road" and Lymington branch. During this period Pregrouping and SR stock gradually gave way to BR Standard and Bulleid stock.
+2. 1964-1967. Ivatt2 and Standard4 tanks on the Branches. Rebuilt Bulleid Pacific and Standard 4-6-0 on the mainline. Standard 4 2-6-0 on the humbler duties. 
+Class 33 Cromptons appear, and a few Brush Type 4 class 47 on the prestigious or inter-regional trains. Hampshire (class 205) DEMU occasionally on local services, particularly on Sundays. This was Britain's last steam-worked passenger mainline.
 
 ### Named Trains
-The famous Bournemouth Belle. 
-The Royal Wessex loaded to 13 coaches with a stop at Brockenhurst. 
-The Pines Express (diverted from the S&D after 1962) Used maroon stock.
-Channel Islands Boat Express. I believe used the old road?
-Not named but the York (I think) train brought a GW Hall over the route There was a midday fast fitted-goods non-stop westwards over the old road. Fast goods were usually in the hands of S15 4-6-0, some times Q1 0-6-0. 
-Pickup goods 700 , Q 0-6-0 and T9.
+- The famous Bournemouth Belle. 
+- The Royal Wessex loaded to 13 coaches with a stop at Brockenhurst. 
+- The Pines Express (diverted from the S&D after 1962) Used maroon stock.
+- Channel Islands Boat Express. I believe used the old road?
+- Not named but the York (I think) train brought a GW Hall over the route There was a midday fast fitted-goods non-stop westwards over the old road. Fast goods were usually in the hands of S15 4-6-0, some times Q1 0-6-0. 
+- Pickup goods 700 , Q 0-6-0 and T9.
+
 On Summer Saturdays 9-coach through trains ran from Waterloo to Lymington. Usually changing to a 0-6-0 at Brockenhurst. Generally nothing bigger than a 2-6-0 ran through to Lymington.
-The Old road to Ringwood was much used as a diversionary route to Weymouth and Poole. Originally restricted to smaller locos, the bridges were upgraded to take the heaviest shortly before closure
+
+The Old road to Ringwood was much used as a diversionary route to Weymouth and Poole. Originally restricted to smaller locos, the bridges were upgraded to take the heaviest shortly before closure.
 
 ### Goods Traffic
 
-Goods traffic was mostly mixed pickup goods i.e. vacuum-fitted head with unbraked wagons behind. No long coal trains. Some fast fitted night  goods ran to Dorchester and Poole, remarshalling at Brockenhurst. There were few bulk goods trains. Bulk cement to Poole, and of course the Fawley oil traffic passed over the Eastern section of the Route. 
+Goods traffic was mostly mixed pickup goods, i.e. vacuum-fitted head with unbraked wagons behind. No long coal trains. Some fast fitted night  goods ran to Dorchester and Poole, remarshalling at Brockenhurst. There were few bulk goods trains. Bulk cement to Poole and, of course, the Fawley oil traffic passed over the eastern section of the Route. 
 
-The Eling Tramway carried lots of traffic, mainly Tar, timber and fertiliser.
+The Eling Tramway carried lots of traffic, mainly tar, timber and fertiliser.
 Redbridge Works could almost be a mini-route. A shunter was resident C14 0-4-0 or sometimes a B4. Later USA 0-6-0 handled all PW materials, sleepers, rails track panels and supplies for the foundry.
 	
 ## Notes for Activity writers
@@ -116,10 +121,10 @@ Ground signals have “callon restricted” function for timetable mode. A yello
 
 The track plan should be accurate, except at the following locations:
 
-Southampton Docks - a minimal, representation
-Redbridge PWay works - reduced and  loosely based on  reality
-Bournemouth Goods - reduced a little
-Eling Tramway - reduced
+- Southampton Docks - a minimal, representation
+- Redbridge PWay works - reduced and loosely based on reality
+- Bournemouth Goods - reduced a little
+- Eling Tramway - reduced
 
 Gradients are a compromise with the DEMEX generated  terrain relief and the skewed orientation of MSTS.  
 
@@ -135,7 +140,7 @@ Copyright rests with the authors of the following  models (see route ref file). 
 
 All items in the following classes
 Item                                 | Author
--------------------------------------+-------
+-------------------------------------|-------
 "greenery", some terrtex             | greenery@seznam.cz, http://sweb.cz/greenery
 Banks & cuttings                     | David Gibbons
 HW scenery and buildings, Horses     | Paul Gausden
@@ -208,12 +213,12 @@ Special thanks to
 
 New Forest Route was originally created on a P4 3GHz 1Gb RAM Nvidia 7800 graphics card. Now I7 16gb memory 64bit W10 with Nvidia GTX1050
 
-V1 Initial Release Feb 07
-V1.1 Mar 07 Track database rebuild. Linked signals reinstalled.
-V1.2 Feb 09  Scenery extended to Pokesdown. additional signals in response to feedback.	
-V2 Nov 09 Track improved at Bournemouth and Southampton Docks. Scenery extended to Bournemouth and Westmoors. Additional custom signals added.
-V2.1 Dec 09 Christchurch signal relocated. Newroads files eliminated.
-V3 Jul 19. Route extended to Basingstoke, Weymouth and Templecombe.Route optimised for OR timetable mode. Now OR only.
+- V1 Initial Release Feb 07
+- V1.1 Mar 07 Track database rebuild. Linked signals reinstalled.
+- V1.2 Feb 09  Scenery extended to Pokesdown. additional signals in response to feedback.	
+- V2 Nov 09 Track improved at Bournemouth and Southampton Docks. Scenery extended to Bournemouth and Westmoors. Additional custom signals added.
+- V2.1 Dec 09 Christchurch signal relocated. Newroads files eliminated.
+- V3 Jul 19. Route extended to Basingstoke, Weymouth and Templecombe.Route optimised for OR timetable mode. Now OR only.
 
 ## Personal
 

@@ -1,5 +1,5 @@
 # NewForest Route V3
-![NewForestRoute](/NfGit.jpg)
+![NewForestRoute](NfGit.jpg)
 
 ## Scenario
 
